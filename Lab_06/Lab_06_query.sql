@@ -1,3 +1,4 @@
+```sql
 use universitatea
 
 -- ex 1 ----------------------------------------------------------
@@ -113,3 +114,4 @@ values ((select Id_Disciplina from discipline where Disciplina = 'Baze de date')
 
 		
 
+```
