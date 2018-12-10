@@ -1,14 +1,14 @@
 USE master; 
 
 EX 1 Full Back-Up
- 
+ '''sql
 GO  
 BACKUP DATABASE universitatea  
 TO DISK = 'D:\Backup_lab11\exercitiul1.Bak'  
 WITH FORMAT 
 GO  
 BACKUP LOG universitatea TO DISK = 'D:\Backup_lab11\exercitiul1.Bak'
-
+'''
 EX 2 Differential Backup
 
 GO  
