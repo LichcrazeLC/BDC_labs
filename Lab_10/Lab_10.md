@@ -22,6 +22,7 @@
 
 6. Sa se creeze un declansator DDL care, la modificarea proprietatilor coloanei ld_Profesor dintr-un tabel, ar face schimbari asemanatoare in mod automat in restul tabelelor.
 
-![image](https://user-images.githubusercontent.com/33174692/50053354-71c65680-013c-11e9-9456-5cc8390a4417.png)
+![image](https://user-images.githubusercontent.com/33174692/50053366-b05c1100-013c-11e9-8b51-e8aa365f86ea.png)
+
 
 
